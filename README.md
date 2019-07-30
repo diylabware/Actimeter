@@ -1,7 +1,6 @@
-# equipment_repository_template
+Actimeter.
+We are a group of dedicated ,passionate,hardworking and zealous young research scientist from KNUST Ghana. The team members are Nene Nathaniel North, Arthur Richmond and Michael Frimpong Baidoo. We are building an actimeter for monitoring the behaviour of animals after they have been injected with a test drug.
 
-This is a template repository. should be used as a guideline by people/groups developing equipment in this project
+This is a template repository. should be used as a guideline by people/groups developing equipment in this project research scientist from Kwame Nkrumah University of Science and Technology. 
 
-Readme can have a link to all the relevant files/documents and can/should be used to give examples of data collected with the device as well as the rational behind its construction.
 
-Should also have mentions to code of conduct and contributing guidelines.
